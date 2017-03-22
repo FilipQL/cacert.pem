@@ -6,7 +6,7 @@ If you are getting the following error message:
 ```
 cURL error 60: SSL certificate problem: unable to get local issuer certificate
 ```
-1. Download cacert.pem
+1. Download **cacert.pem**
 2. Put it in: **php\extras\ssl** (if you are using **XAMPP**, put it in: **C:\xampp\php\extras\ssl**)
 3. In your **php.ini**:
 ```
