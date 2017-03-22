@@ -17,4 +17,4 @@ curl.cainfo = "C:\Program Files\PHP\v7.0\extras\ssl\cacert.pem"
 ```
 curl.cainfo = "C:\xampp\php\extras\ssl\cacert.pem"
 ```
-4. Restart your webserver/apache.
+4. Restart your webserver/Apache.
